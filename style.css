@@ -218,24 +218,24 @@ html,body {
 #bottom-speaker div:nth-child(6) { left: 198px; }
 #bottom-speaker div:nth-child(7) { left: 210px; }
 
-#skrews {
+#screws {
   position: absolute;
   top: 780px;
   left: 120px;
   transform: rotateX(90deg);
 }
-#skrews div {
+#screws div {
   position: absolute;
   width: 8px;
   height: 8px;
-  background: rgb(95, 92, 92);
+  background: #5f5c5c;
   border-radius: 50%;
   top: 0;
   z-index: 4;
   box-shadow: inset #999aa0 0 0 0px 2px, #444 1px 0px;
 }
 
-#skrews div:last-child {
+#screws div:last-child {
   left: 70px;
 }
 
